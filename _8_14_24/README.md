@@ -1,4 +1,4 @@
-[LeetCode Daily 719: 719. Find K-th Smallest Pair Distance](https://leetcode.com/problems/find-k-th-smallest-pair-distance/description/)
+[LeetCode Daily: 719. Find K-th Smallest Pair Distance](https://leetcode.com/problems/find-k-th-smallest-pair-distance/description/)
 
 note: given array nums and int k. find the kth smallest absolute difference between any 2 elements in the array.
 use binary search.
